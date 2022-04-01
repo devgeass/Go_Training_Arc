@@ -47,7 +47,7 @@ Commenting is same old.
 ```go
 fmt.Println("What's up, danger?")
 ```
-From the *fmt* package, the *Println* function is used to print to terminal. Please don't print "Hello World!" Also, we have to use double quotes " ". 
+From the *fmt* package, the *Println* function is used to print to the console. Please don't print "Hello World!" Also, we have to use double quotes " ". 
 
 ## Fun Program 
 
@@ -63,7 +63,7 @@ That's all there is to it. That's a wrap on Day 0.
 
 ## No! Wait!
 
-Apparently, we can create an executable of the program. Isn't that convenient? To do do, execute in the working directory:
+Apparently, we can create an executable of the program. Isn't that convenient? To do so, execute in the working directory:
 ```sh
 go build main.go
 ```
