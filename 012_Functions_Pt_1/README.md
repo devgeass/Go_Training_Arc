@@ -1,4 +1,4 @@
-# #12 Functions
+# #12 Functions Part 1
 
 Functions help write modular code. They are used to split logic into smaller and manageable code.
 
