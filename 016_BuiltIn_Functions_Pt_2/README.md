@@ -1,6 +1,6 @@
-# #15 BuiltIn Functions Part 2
+# #16 BuiltIn Functions Part 2
 
-## String
+## Strings
 
 String functions are important to manipulate with string data. They can be accessed via the `strings` package using `strings.func(args)`. Here's a list:
 
