@@ -1,4 +1,4 @@
-# #20 Structs
+# #20 Structs Part 1
 
 A struct is a user-defined type that represents a collection of fields.
 
